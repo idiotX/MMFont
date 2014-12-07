@@ -1,4 +1,3 @@
-alert('starting...');
 var unicodeFontsSupported = {"cherry":"'Cherry Unicode'", "tharlon":"'TharLon'", "pyidaungsu":"'Pyidaungsu'"};
 var unicodeFont = "'MON3 Anonta 1'";
 var includeFrames = true;
@@ -1757,7 +1756,7 @@ function applyUnicodeFont(doc) {
 ﻿  ﻿  var fileref = doc.createElement('link');
 ﻿  ﻿  fileref.setAttribute('rel', 'stylesheet');
 ﻿  ﻿  fileref.setAttribute('type', 'text/css');
-﻿  ﻿  fileref.setAttribute('href', 'http://mmwebfonts.comquas.com/fonts/?font=mon3');
+﻿  ﻿  fileref.setAttribute('href', 'https://raw.githubusercontent.com/nyinyitun83/MMFont/master/fonts/mon3.css');
 ﻿  ﻿  head.appendChild(fileref);
 ﻿  }
 ﻿  
