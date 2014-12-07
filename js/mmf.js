@@ -1801,7 +1801,6 @@ function applyUnicodeFont(doc) {
 (function(root) {
 
 ﻿  window.applyUnicodeFont(root);
-﻿  alert('ok');
 ﻿  /*
 ﻿  window.setTimeout(function() {
 ﻿  ﻿  root.getElementById('aaa').innerHTML = 'ဘရာဇီးႏုိင္ငံအေျခစုိက္<div>ဘရာဇီးႏုိင္ငံအေျခစုိက္</div><div><div><div><div><div><p>ဗြိတိန်ပေါင် ၁၆ သန်းတန်တဲ့ ဆိုလာစွမ်းအင်သုံ</p></div></div></div></div></div>';
