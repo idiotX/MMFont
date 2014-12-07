@@ -1,5 +1,5 @@
 var unicodeFontsSupported = {"cherry":"'Cherry Unicode'", "tharlon":"'TharLon'", "pyidaungsu":"'Pyidaungsu'"};
-var unicodeFont = "'MON3 Anonta 1'";
+var unicodeFont = "'Cherry Unicode'";
 var includeFrames = true;
 
 /*!
