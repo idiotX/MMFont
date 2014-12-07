@@ -1756,7 +1756,7 @@ function applyUnicodeFont(doc) {
 ﻿  ﻿  var fileref = doc.createElement('link');
 ﻿  ﻿  fileref.setAttribute('rel', 'stylesheet');
 ﻿  ﻿  fileref.setAttribute('type', 'text/css');
-﻿  ﻿  fileref.setAttribute('href', 'https://raw.githubusercontent.com/nyinyitun83/MMFont/master/fonts/cherry.css');
+﻿  ﻿  fileref.setAttribute('href', 'https://rawgit.com/nyinyitun83/MMFont/master/fonts/cherry.css');
 ﻿  ﻿  head.appendChild(fileref);
 ﻿  }
 ﻿  
