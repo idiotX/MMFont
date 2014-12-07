@@ -1,4 +1,4 @@
 @font-face {
-  font-family:'MON3 Anonta 1';
-  src:local('MON3 Anonta 1'), url('http://mmwebfonts.comquas.com/fonts/mon3.woff') format('woff'), url('http://mmwebfonts.comquas.com/fonts/mon3.ttf') format('ttf');
+  font-family:'Cherry Unicode';
+  src:local('Cherry Unicode'), url('https://cdn.rawgit.com/nyinyitun83/MMFont/master/fonts/cherry.woff') format('woff'), url('https://cdn.rawgit.com/nyinyitun83/MMFont/master/fonts/cherry.ttf') format('ttf');
 }
